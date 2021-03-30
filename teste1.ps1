@@ -1,1 +1,1 @@
-Copy-Item -path "c:\Temp\icones\*" -destination "c:\Temp\icones2" -recurse
+Copy-Item -Path "\\samgr-srv002\PUBLICO\Opera para APC5M\*" -destination "c:\Opera-Acesso" -recurse
